@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michi-P17
-- 👀 I’m interested in coding and Chemistry.
+- 👀 I’m interested in coding, genetics, and Chemistry.
 - 🌱 I’m currently learning R language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
